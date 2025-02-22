@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program demonstrating a common data type mismatch error. The program attempts to perform arithmetic on a field defined as alphanumeric, leading to unexpected behavior.  The solution demonstrates how to correct this error by defining the field with the correct numeric data type.
